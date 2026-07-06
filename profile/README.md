@@ -2,7 +2,7 @@
   <img src="https://github.com/kaadipranav/kaadipranav/blob/main/assets/img3.png"/>
 </div>
 
-<h1 align="center">Klyd Studio</h1>
+
 <p align="center">
   <strong>Stability for AI‑generated code.</strong>
 </p>
