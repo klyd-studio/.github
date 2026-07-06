@@ -2,11 +2,6 @@
   <img src="https://github.com/kaadipranav/kaadipranav/blob/main/assets/img3.png"/>
 </div>
 
-
-<p align="center">
-  <strong>Stability for AI‑generated code.</strong>
-</p>
-
 ---
 
 We build **harnesses that make coding agents trustworthy**. Our first tool, [klyd](https://github.com/Klyd-Studio/klyd-harness), extracts and enforces architectural decisions across every session, so your codebase never loses its spine.
